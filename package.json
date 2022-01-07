@@ -1,7 +1,7 @@
 {
-  "name": "xxxx",
-  "description": "xxxx",
-  "version": "xxxx",
+  "name": "Payload Issue 416",
+  "description": "Reproduction of Payload issue #416",
+  "version": "0.0.1",
   "main": "dist/server.js",
   "license": "UNLICENSED",
   "engines": {
