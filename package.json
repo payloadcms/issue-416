@@ -1,5 +1,5 @@
 {
-  "name": "Payload Issue 416",
+  "name": "payload-issue-416",
   "description": "Reproduction of Payload issue #416",
   "version": "0.0.1",
   "main": "dist/server.js",
@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "express-http-proxy": "^1.6.3",
     "google-auth-library": "^7.11.0",
-    "payload": "^0.14.0",
+    "payload": "0.14.5-beta.0",
     "rich-markdown-editor": "^11.21.3",
     "styled-components": "^5.3.3"
   },
