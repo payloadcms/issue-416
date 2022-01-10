@@ -1,5 +1,6 @@
 import express from 'express';
 import payload from 'payload';
+import { serverURL } from './payload.config'
 
 require('dotenv').config();
 const app = express();
@@ -15,5 +16,5 @@ payload.init({
 });
 
 // Add your own express routes here
-
+console.log(serverURL)
 app.listen(3000);
